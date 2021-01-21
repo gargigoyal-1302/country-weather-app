@@ -1,0 +1,4 @@
+export const GET_COUNTRY = "GET_COUNTRY";
+export const GET_COUNTRY_FAILED = "GET_COUNTRY_FAILED";
+export const GET_WEATHER = "GET_WEATHER";
+export const GET_WEATHER_FAILED = "GET_WEATHER_FAILED";
